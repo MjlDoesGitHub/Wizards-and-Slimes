@@ -1,0 +1,2 @@
+# Wizards-and-Slimes
+This is my first video game with interactive actions. I have been working on this game for about 4 months with more than 500 lines of code and was used to win first place in the coding competition in ace coding club (6th grade). I use photoshop for my graphics, which will be improved in the future. This game is basically where you use your gold to 'plant' towers to defend against enemies. The more enemies you kill, the more gold you acquire. If the enemies get into the flag 10 times, it's game over. 
